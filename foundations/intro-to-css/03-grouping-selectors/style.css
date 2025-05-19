@@ -1,4 +1,5 @@
-.firstelement.secondelement {
+.firstelement,
+.secondelement {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
@@ -6,7 +7,6 @@
 .firstelement {
     background-color: #000000;
     color: white;
-    font-weight: bold;
 }
 
 .secondelement {
